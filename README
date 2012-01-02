@@ -1,0 +1,19 @@
+Feedback on http://msgehard.github.com/ruby-learning/
+
+You are awesome to do this, thank you, Mike. No real specific feedback as the outline is good, in that it worked for me, so just some notes/thoughts as I went through.
+
+I went back and forth on this being potentially aimed at someone who's never programmed at all. I wondered about pre-requisites and extra links, for example but in the end I think the http://mattdeboard.net/2011/11/23/how-i-became-a-programmer/ blog post kind of covers what's really needed, e.g. self-help, resourcefulness, etc. People will figure out what they need from the questions they find themselves asking.
+
+Git Video Part 0 http://www.youtube.com/watch?v=vaNGbk6HN9Y&feature=related video is good, just a bit out of date, but not so much that common sense can't overcome quickly.
+
+Steps 2. Sign-up for a GitHub account and most of 3. Creating a repo are covered in Git Video Part 0. Likewise there's some Git setup in Chapter 1 of ProGit book. So maybe prompt people to skim through before starting so they can consolidate steps.
+
+I'd already hit these pages by the time I got to the links for
+How do I connect my local repositories to GitHub
+How do I create a repository, make local changes and then push those changes to GitHub
+However, they are probably still helpful as other people will likely decide to work through the steps differently than I did. I setup alongside the video, having skimmed through to see what the goals were.
+
+Slightly related note: I plan to fork Git help and a brief bit of troubleshooting for adding your private key to your keychain... guess what I forgot to do :) Only took me a sec to figure out, but might help someone else sometime.
+
+Thought I'd stop here and tweet as requested, so you know who's about to fork your LearnRubyTheHardWay. Looking forward to it - thanks again!
+Jo
